@@ -24,3 +24,15 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+
+section {
+    background: rgb(102 185 102);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
