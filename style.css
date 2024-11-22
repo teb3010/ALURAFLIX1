@@ -36,3 +36,19 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
+
+section{
+    background: rgb(102 185 102);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
